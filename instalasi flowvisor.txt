@@ -1,0 +1,6 @@
+1.Install java versi 8 sebelum melakukan instalasi flowvisor.
+2.Download dan extract file instalasi flowvisor.
+3.Masuk kedalam folder flowvisor dan melakukan perintah make untuk build program flowvisor.
+4.Melakukan perintah make install yang bertujuna untuk menginstall flowvisor.
+5.Mengubah kepemilikan directory db yang berada di usr/local/share/db menjadi directory user yang saat ini dipakai.
+6.Mengubah permission directory db yang berada di usr/local/share/db menjadi 777 atau agar bisa dibaca, dimodifikasi, dan dijalankan oleh user yang digunakan.

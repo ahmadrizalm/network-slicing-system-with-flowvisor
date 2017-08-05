@@ -1,0 +1,3 @@
+fvctl add-slice slice1 tcp:localhost:10000 admin@slice1
+
+fvctl add-slice slice2 tcp:localhost:20000 admin@slice2
